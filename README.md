@@ -1,3 +1,7 @@
+---
+bibliography: references.bib
+---
+
 # migale2025
 
 coucou
@@ -20,4 +24,5 @@ ajout d'une autre nouvelle ligne
 
 -   list3
 
-    **début** bloc de texte
+    **début** bloc de texte\
+    citation [@Rohart2017]
