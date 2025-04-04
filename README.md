@@ -26,3 +26,11 @@ ajout d'une autre nouvelle ligne
 
     **début** bloc de texte\
     citation [@Rohart2017]
+
+-   
+
+    | Col1 | Col2 | Col3 |
+    |------|------|------|
+    |      |      |      |
+    |      |      |      |
+    |      |      |      |
