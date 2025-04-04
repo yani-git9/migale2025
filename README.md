@@ -9,6 +9,15 @@ ajout d'une nouvelle ligne (en ligne)
 ajout d'une autre nouvelle ligne
 
 # ma super analyse
+
 2 + 2 = 4
 
-**rstudio** 
+**rstudio**
+
+-   list1
+
+-   list2
+
+-   list3
+
+    **début** bloc de texte
